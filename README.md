@@ -14,7 +14,7 @@ Sy ambil dari : https://stackoverflow.com/questions/46658643/android-grant-permi
 
 3. aapt d permissions /path/keaplikasi/master.apk
 
-4. (Ini hanyabisa dilinux/mac/yermux, bisa melihat spesifik perizinan aplikasi)
+(Ini hanyabisa dilinux/mac/yermux, bisa melihat spesifik perizinan aplikasi)
 
 4. Contoh 
 
