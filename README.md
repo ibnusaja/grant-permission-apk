@@ -3,6 +3,7 @@ Intinya memberi semua izin applikasi secara cepat.
 
 # pendahuluan.
 baca aja ini.
+
 Sy ambil dari : https://stackoverflow.com/questions/46658643/android-grant-permissions-through-adb
 
 1. adb shell pm list packages (melihat name package apk)
